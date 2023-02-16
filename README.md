@@ -1,1 +1,1 @@
-# individproject
+# individualproject
